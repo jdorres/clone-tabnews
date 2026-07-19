@@ -1,3 +1,3 @@
 # clone-tabnews
 
-Implementação do TabNews
+Projeto do curso.dev — Next.js, testes automatizados e CI
